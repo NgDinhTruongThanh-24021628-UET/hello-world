@@ -1,2 +1,3 @@
 # hello-world
-Getting started on Github :)
+Getting started on Github :) '\n'
+I heard the rock's been cooking...
